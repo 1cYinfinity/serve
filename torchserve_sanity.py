@@ -63,3 +63,4 @@ def cleanup():
 
 if __name__ == "__main__":
     torchserve_sanity()
+# verification
